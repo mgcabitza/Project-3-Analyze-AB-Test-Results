@@ -1,1 +1,3 @@
-# Project-3-Analyze-AB-Test-Results
+A/B tests are very commonly performed by data analysts and data scientists to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric (in our case, the "converted" rate) is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other.
+
+This project will analyze the statistical likelihood of increasing conversion rates due to newer version of the landing page, and will consolidate and validate its results by demonstrating the same statistical effects using three statistical methods: probability, hypothesis testing, and, lastly, logistic regression.
